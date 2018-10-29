@@ -1,0 +1,32 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath*
+
+# IntelliJ
+.idea/
+*.iml
+
+# Generated files
+bin/
+target/
+*.class
+build/
+out/
+
+# Package files
+*.jar
+!gradle-wrapper.jar
+*.war
+*.ear
+
+#mac
+**/.DS_Store
+/scripts/rejected/
+/scripts/uploaded/
+/*.mv.db
+/*.trace.db
+
+#gradle
+.gradle

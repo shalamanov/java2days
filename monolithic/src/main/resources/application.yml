@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/monolithic
+    username: root
+    password: yadda
+    driver-class-name: com.mysql.jdbc.Driver
